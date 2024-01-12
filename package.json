@@ -1,0 +1,18 @@
+{
+  "name": "@lifaon/deep-map",
+  "version": "1.0.0",
+  "description": "Description",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lifaon74/deep-map"
+  },
+  "keywords": [],
+  "author": "Valentin Richard",
+  "license": "MIT",
+  "access": "public",
+  "devDependencies": {
+    "@types/jest": "^29.5.11"
+  },
+  "localDependencies": [],
+  "packageManager": "yarn@4.0.2"
+}
